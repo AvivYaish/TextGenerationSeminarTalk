@@ -1,2 +1,2 @@
 # TextGenerationSeminarTalk
-A short seminar talk on text generation.
+A short seminar talk on text generation using RNNs.
